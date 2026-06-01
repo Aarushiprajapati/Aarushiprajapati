@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,45:7C3AED,100:FF4D8D&height=230&section=header&text=Aarushi%20Prajapati&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Builder%20%7C%20AI%2FML%20Explorer%20%7C%20DSA%20Problem%20Solver&descAlignY=58&descAlign=50" alt="Animated profile header" width="100%" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2300&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=I+build+products+that+feel+clean%2C+fast%2C+and+useful.;I+turn+DSA%2C+AI%2C+and+full-stack+ideas+into+working+apps.;Always+shipping.+Always+learning.+Always+improving." alt="Typing animation" /> </a>
 <img src="https://komarev.com/ghpvc/?username=Aarushiprajapati&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" /> <a href="https://github.com/Aarushiprajapati?tab=followers"> <img src="https://img.shields.io/github/followers/Aarushiprajapati?label=Followers&style=for-the-badge&color=00c2ff&labelColor=111827" alt="GitHub followers" /> </a> <a href="https://github.com/Aarushiprajapati?tab=repositories"> <img src="https://img.shields.io/badge/Public%20Repos-23-ff4d8d?style=for-the-badge&labelColor=111827" alt="Public repositories" /> </a> </div>
-About Me
-I am a developer focused on building practical products across full-stack web apps, AI/ML experiments, DSA tooling, and developer utilities. My repositories show a mix of learning in public and shipping usable projects, from recommender systems and student-performance prediction to collaborative code tools and DSA platforms.
+
+I am a developer focused on building practical products across full-stack web apps, AI/ML experiments
 
 Focus      Full-stack products, AI/ML utilities, DSA systems
 Stack      JavaScript, React, Node.js, Python, C++

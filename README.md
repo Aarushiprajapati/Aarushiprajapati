@@ -3,24 +3,13 @@
 
 I am a developer focused on building practical products across full-stack web apps, AI/ML experiments
 
-Focus      Full-stack products, AI/ML utilities, DSA systems
-Stack      JavaScript, React, Node.js, Python, C++
-Style      Build fast, explain clearly, improve through iteration
-Goal       Create tools that are useful, polished, and easy to understand
+<p>Focus   -   Full-stack products, AI/ML utilities, DSA systems</p>
+<p>Stack   -   JavaScript, React, Node.js, Python, C++</p>
+<p>Style   -   Build fast, explain clearly, improve through iteration</p>
+<p>Goal       Create tools that are useful, polished, and easy to understand</p>
 Tech I Use
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,cpp,html,css,tailwind,mongodb,git,github,vscode&theme=dark&perline=7" alt="Tech stack icons" /> </div>
-Featured Work
-<table> <tr> <td width="50%"> <h3 align="center">DSAsolver</h3> <p align="center">A React-powered DSA practice platform with daily challenges, progress tracking, and a polished learning flow.</p> <p align="center"> <a href="https://github.com/Aarushiprajapati/DSAsolver"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarushiprajapati&repo=DSAsolver&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4D8D&text_color=E5E7EB" alt="DSAsolver repository card" /> </a> </p> </td> <td width="50%"> <h3 align="center">EduPredict</h3> <p align="center">A machine-learning student performance predictor focused on turning academic data into useful insights.</p> <p align="center"> <a href="https://github.com/Aarushiprajapati/EduPredict"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarushiprajapati&repo=EduPredict&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4D8D&text_color=E5E7EB" alt="EduPredict repository card" /> </a> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">DailyForge</h3> <p align="center">A full-stack MERN productivity app for designing, tracking, and improving daily workflows.</p> <p align="center"> <a href="https://github.com/Aarushiprajapati/DailyForge"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarushiprajapati&repo=DailyForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4D8D&text_color=E5E7EB" alt="DailyForge repository card" /> </a> </p> </td> <td width="50%"> <h3 align="center">GitNest</h3> <p align="center">A lightweight collaborative code-hosting platform exploring repositories, commits, branches, and dev workflows.</p> <p align="center"> <a href="https://github.com/Aarushiprajapati/GitNest"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aarushiprajapati&repo=GitNest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4D8D&text_color=E5E7EB" alt="GitNest repository card" /> </a> </p> </td> </tr> </table>
-Current Direction
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarushiprajapati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E5E7EB" alt="Top languages" width="340" />
-Building stronger full-stack products with clean user experiences.
-Exploring AI/ML projects that solve practical problems.
-Practicing DSA and turning concepts into visual, reusable tools.
-Improving open-source habits through clearer READMEs, commits, and project structure.
-<br clear="right" />
-GitHub Motion
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Aarushiprajapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
-<img src="https://github-readme-stats.vercel.app/api?username=Aarushiprajapati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4D8D&text_color=E5E7EB&rank_icon=github" alt="GitHub stats" width="48%" /> <img src="https://streak-stats.demolab.com?user=Aarushiprajapati&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF4D8D&currStreakLabel=00E5FF" alt="GitHub streak stats" width="48%" /> <br /> <br /> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aarushiprajapati/Aarushiprajapati/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aarushiprajapati/Aarushiprajapati/output/github-contribution-grid-snake.svg" /> <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Aarushiprajapati/Aarushiprajapati/output/github-contribution-grid-snake.svg" /> </picture> </div>
+
 Connect
 <div align="center"> <a href="https://github.com/Aarushiprajapati"> <img src="https://img.shields.io/badge/GitHub-Aarushiprajapati-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-Update%20This%20Link-FF4D8D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email link" /> </a> <a href="https://www.linkedin.com/in/your-linkedin/"> <img src="https://img.shields.io/badge/LinkedIn-Update%20This%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link" /> </a> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,45:7C3AED,100:00C2FF&height=120&section=footer" alt="Animated footer" width="100%" /> </div>

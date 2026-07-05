@@ -10,6 +10,4 @@ I am a developer focused on building practical products across full-stack web ap
 Tech I Use
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,cpp,html,css,tailwind,mongodb,git,github,vscode&theme=dark&perline=7" alt="Tech stack icons" /> </div>
 
-Connect
-<div align="center"> <a href="https://github.com/Aarushiprajapati"> <img src="https://img.shields.io/badge/GitHub-Aarushiprajapati-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-Update%20This%20Link-FF4D8D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email link" /> </a> <a href="https://www.linkedin.com/in/your-linkedin/"> </a> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,45:7C3AED,100:00C2FF&height=120&section=footer" alt="Animated footer" width="100%" /> </div>

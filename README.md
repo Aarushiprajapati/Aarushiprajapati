@@ -3,7 +3,7 @@
 
 I am a developer focused on building practical products across full-stack web apps, AI/ML experiments
 
-<p>Focus   -   Full-stack products, AI/ML utilities, cp/p>
+<p>Focus   -   Full-stack products, AI/ML utilities, CP </p>
 <p>Stack   -   JavaScript, React, Node.js, Python, C++</p>
 <p>Style   -   Build fast, explain clearly, improve through iteration</p>
 <p>Goal       Create tools that are useful, polished, and easy to understand</p>
